@@ -26,10 +26,10 @@ BeatPlay Bridge is the macOS companion for [BeatPlay](https://beatplay.app) — 
 
 Go to [**Releases**](../../releases) to download the latest version.
 
-| Architecture | File |
-|---|---|
+| Architecture                 | File                         |
+| ---------------------------- | ---------------------------- |
 | Apple Silicon (M1 and later) | `BeatPlay_x.x.x_aarch64.dmg` |
-| Intel | `BeatPlay_x.x.x_x64.dmg` |
+| Intel                        | `BeatPlay_x.x.x_x64.dmg`     |
 
 **Requirements:** macOS 13 Ventura or later.
 
@@ -37,11 +37,11 @@ Go to [**Releases**](../../releases) to download the latest version.
 
 ## BeatPlay ecosystem
 
-| App | Platform | Distribution |
-|---|---|---|
-| **BeatPlay Bridge** | macOS | Free — direct download (.dmg) |
-| **BeatPlay** | iPhone | Free + Pro — [App Store](https://beatplay.app) |
-| **BeatPlay** | Apple Watch | Included with iPhone app |
+| App                 | Platform    | Distribution                                                                  |
+| ------------------- | ----------- | ----------------------------------------------------------------------------- |
+| **BeatPlay Bridge** | macOS       | Free — direct download (.dmg)                                                 |
+| **BeatPlay**        | iPhone      | Free + Pro — [App Store](https://apps.apple.com/us/app/beatplay/id6784840928) |
+| **BeatPlay**        | Apple Watch | Included with iPhone app                                                      |
 
 BeatPlay Bridge is free and has no in-app purchases. It is the entry point to the ecosystem.
 
